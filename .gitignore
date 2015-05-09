@@ -1,0 +1,6 @@
+*.class
+*.DS_Store
+/GridViewDemo/bin/
+/GridViewLib/bin/
+**/.DS_Store
+
